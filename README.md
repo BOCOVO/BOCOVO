@@ -7,6 +7,11 @@ I love JavaScript and of course I also do Node.js.
 Loving React a lot, I couldn't miss React Native, I sometimes do mobile development.
 Curious, I am currently taking machine learning courses to be able to approach AI.
 
+## Some of my libraries that may interest you.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BOCOVO&repo=tutobox)](https://bocovo.github.io/tutobox-site)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BOCOVO&repo=undraw-js)](https://github.com/BOCOVO/undraw-js)
+
 ## Stack
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
