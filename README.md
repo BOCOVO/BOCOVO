@@ -46,6 +46,10 @@ Curious, I am currently taking machine learning courses to be able to approach A
   &nbsp; 
 </div>
 
+### Top langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BOCOVO&layout=donut-vertical)](https://github.com/BOCOVO)
+
+
 ## Social
 
 <div id="badges">
